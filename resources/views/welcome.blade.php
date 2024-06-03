@@ -13,6 +13,7 @@
     <div class="container">
         <div class="card bg-danger">
             Tes
+            TES BAARU
         </div>
     </div>
 </body>
